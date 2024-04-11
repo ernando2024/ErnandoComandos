@@ -5,7 +5,7 @@ public class Calculos {
 	
 		Operacoes operacoes = new Operacoes();
 		
-		operacoes.soma(55, 23);
+		operacoes.soma(67, 8, 9);
 		
 		operacoes.subtracao(34, 5);
 		
